@@ -11,7 +11,7 @@ The goal is to make Kovaak’s more flexible, personal, and visually/audibly eng
 Installation / Kurulum
 
 Windows
-Palette Configuration / Palette Ayarı
+Palette / Palet
 C:\Users\<YourUsername>\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
 
 
