@@ -1,5 +1,5 @@
 # KovaaK’s – Custom UI Themes, Sounds, Crosshairs & Palettes  
-*KovaaK’s FPS Aim Trainer için özel UI temaları, ses paketleri, crosshair setleri ve renk paletleri*
+*KovaaK’s FPS Aim Trainer için özel kullanıcı arayüzü temaları, ses paketleri, crosshair setleri ve renk paletleri*
 
 ---
 
@@ -7,11 +7,11 @@
 
 **EN:**  
 This repository provides custom UI themes, sound packs, crosshair sets, and palette configurations for **KovaaK’s FPS Aim Trainer**.  
-The goal is to make KovaaK’s more flexible, personal, and visually/audibly engaging.  
+The goal is to make KovaaK’s more personal, and visually/audibly engaging.  
 
 **TR:**  
 Bu repo, **KovaaK’s FPS Aim Trainer** için özel UI temaları, ses paketleri, crosshair setleri ve renk paleti içerikleri sunar.  
-Amaç, Kovaak’s deneyimini daha esnek, kişisel ve görsel/işitsel açıdan zenginleştirmektir.  
+Amaç, KovaaK’s deneyimini görsel ve işitsel açıdan kişiselleştirmektir.  
 
 ---
 
