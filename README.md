@@ -1,14 +1,36 @@
-This repository provides custom UI themes, sounds, crosshairs, and palette configurations for Kovaak’s FPS Aim Trainer. /  Bu repo, Kovaak’s FPS Aim Trainer için özel arayuzu temaları, ses paketleri, crosshairler ve renk paleti içerikleri sunar.
+# KovaaK’s – Custom UI Themes, Sounds, Crosshairs & Palettes  
+*KovaaK’s FPS Aim Trainer için özel UI temaları, ses paketleri, crosshair setleri ve renk paletleri*
 
-UI Themes → personalize the interface / UI Temaları → arayüzü kişiselleştirmek için
-Sound Packs → replace in-game audio / Ses Paketleri → oyun içi sesleri değiştirmek için
-Crosshair Sets → expand aiming options / Crosshair Setleri → nişangâh çeşitliliği için
-Palette.ini → customize color palettes / Palette.ini → renk paletlerini özelleştirmek için
+---
 
-The goal is to make Kovaak’s more flexible, personal, and visually/audibly engaging. / Amaç, Kovaak’s deneyimini daha esnek, kişisel ve görsel/işitsel açıdan zenginleştirmektir.
+## Overview / Genel Bakış  
 
+**EN:**  
+This repository provides custom UI themes, sound packs, crosshair sets, and palette configurations for **KovaaK’s FPS Aim Trainer**.  
+The goal is to make KovaaK’s more flexible, personal, and visually/audibly engaging.  
 
-Installation / Kurulum
+**TR:**  
+Bu repo, **KovaaK’s FPS Aim Trainer** için özel UI temaları, ses paketleri, crosshair setleri ve renk paleti içerikleri sunar.  
+Amaç, Kovaak’s deneyimini daha esnek, kişisel ve görsel/işitsel açıdan zenginleştirmektir.  
+
+---
+
+## Features / Özellikler  
+
+- **UI Themes / Kullanıcı Arayüzü Temaları** → Personalize the user interface / Kullanıcı arayüzünü kişiselleştirmek için  
+- **Sound Packs / Ses Paketleri** → Replace in-game audio / Oyun içi sesleri değiştirmek için  
+- **Crosshair Sets / Crosshair Setleri** → Expand crosshair options / Nişangah çeşitliliği için  
+- **Palette.ini / Palette.ini** → Customize color palettes / Renk paletlerini özelleştirmek için 
+
+---
+
+## Installation / Kurulum  
+
+### Windows  
+  
+```bash
+C:\Users\<YourUsername>\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
+
 
 Windows
 Palette / Palet
@@ -21,8 +43,3 @@ C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer
 
 Themes / Temalar
 C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames
-
-Linux (Proton)
-
-Sounds, crosshairs, and themes follow the same directory structure as Windows. / Sesler, crosshairler ve temalar Windows ile aynı dizin yapısını kullanır.
-Place Palette.ini in the Proton compatibility data folder. AppID: 824270 / Palette.ini Proton uyumluluk klasörüne kopyalanmalıdır. AppID: 824270
