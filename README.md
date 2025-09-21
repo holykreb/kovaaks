@@ -29,10 +29,6 @@ Amaç, Kovaak’s deneyimini daha esnek, kişisel ve görsel/işitsel açıdan z
 ### Windows  
   
 ```bash
-C:\Users\<YourUsername>\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
-
-
-Windows
 Palette / Palet
 C:\Users\<YourUsername>\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
 
