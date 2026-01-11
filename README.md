@@ -1,41 +1,24 @@
 # KovaaK’s – Custom UI Themes, Sounds, Crosshairs & Palettes  
-*KovaaK’s FPS Aim Trainer için özel kullanıcı arayüzü temaları, ses paketleri, crosshair setleri ve renk paletleri*
-
----
-
-## Overview / Genel Bakış  
-
-**EN:**  
-This repository provides custom UI themes, sound packs, crosshair sets, and palette configurations for **KovaaK’s FPS Aim Trainer**.  
-The goal is to make KovaaK’s more personal, and visually/audibly engaging.  
-
-**TR:**  
-Bu repo, **KovaaK’s FPS Aim Trainer** için özel UI temaları, ses paketleri, crosshair setleri ve renk paleti içerikleri sunar.  
-Amaç, KovaaK’s deneyimini görsel ve işitsel açıdan kişiselleştirmektir.  
-
----
-
-## Features / Özellikler  
-
-- **UI Themes / Kullanıcı Arayüzü Temaları** → Personalize the user interface / Kullanıcı arayüzünü kişiselleştirmek için  
-- **Sound Packs / Ses Paketleri** → Replace in-game audio / Oyun içi sesleri değiştirmek için  
-- **Crosshair Sets / Crosshair Setleri** → Expand crosshair options / Nişangah çeşitliliği için  
-- **Palette.ini / Palette.ini** → Customize color palettes / Renk paletlerini özelleştirmek için 
-
----
+*This repository provides optimized settings, custom themes, sound packs, crosshair sets for KovaaK’s FPS Aim Trainer, the goal is to make KovaaK’s more personal and engaging.*
 
 ## Installation / Kurulum  
-
-### Windows  
   
 ```bash
-Palette / Palet
-C:\Users\<YourUsername>\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
+Crosshair folder location (Nişangah dosyasi dizini):
+C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\crosshairs
 
+Sound folder location (Ses dosyasi dizini):
+C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\sounds
 
-Sounds & Crosshairs / Sesler & Crosshairler
-C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer
+Theme folder location (Tema dosyasi dizini): 
+C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Themes
 
-
-Themes / Temalar
+KovaaKs settings file location (KovaaKs ayarlari dosya dizini):
 C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames
+
+Palette file location (Palette dosyasi dizini):
+C:\Users\YOURPCUSERNAME\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
+
+
+Curated by triggerAim Community — built for aimers.
+
