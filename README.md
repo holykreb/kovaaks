@@ -20,5 +20,5 @@ Palette file location (Palette dosyasi dizini):
 C:\Users\YOURPCUSERNAME\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
 
 
-Curated by triggerAim Community — built for aimers.
+Curated by discord.gg/triggeraim
 
