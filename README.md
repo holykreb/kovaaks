@@ -1,23 +1,61 @@
-# KovaaK’s – Custom UI Themes, Sounds, Crosshairs & Palettes  
-*This repository provides optimized settings, custom themes, sound packs, crosshair sets for KovaaK’s FPS Aim Trainer, the goal is to make KovaaK’s more personal and engaging.*
+# KovaaK’s Custom Assets
 
-## Installation / Kurulum  
-  
-```bash
-Crosshair folder location (Nişangah dosyasi dizini):
+A curated collection of themes, sound packs, crosshairs, color palettes, and configuration files for KovaaK’s FPS Aim Trainer.
+
+Created and maintained by the CONTINIUM team, this repository serves as a centralized library of customization assets designed to improve visual clarity, consistency, and overall user experience for competitive players.
+
+## Contents
+
+- UI Themes
+- Sound Packs
+- Crosshairs
+- Color Palettes
+- Configuration Files
+
+## Installation
+
+### Crosshairs
+
+```text
 C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\crosshairs
+```
 
-Sound folder location (Ses dosyasi dizini):
+### Sound Packs
+
+```text
 C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\sounds
+```
 
-Theme folder location (Tema dosyasi dizini): 
+### Themes
+
+```text
 C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Themes
+```
 
-KovaaKs settings file location (KovaaKs ayarlari dosya dizini):
+### Settings Files
+
+```text
 C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames
+```
 
-Palette file location (Palette dosyasi dizini):
-C:\Users\YOURPCUSERNAME\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
+### Color Palettes
 
+```text
+C:\Users\YOUR_USERNAME\AppData\Local\FPSAimTrainer\Saved\Config\WindowsNoEditor
+```
 
-Curated by triggeraim (discord.gg/triggeraim)
+## Mission
+
+The KovaaK’s customization ecosystem is fragmented across forums, Discord servers, social media posts, and private collections. Our goal is to make high-quality customization assets accessible through a single, organized, and continuously maintained repository.
+
+## About CONTINIUM
+
+CONTINIUM is a competitive gaming community focused on high-performance improvement, aim development, and knowledge sharing. This repository is part of our effort to build better tools, resources, and infrastructure for the aiming community.
+
+## Contributing
+
+We welcome contributions from designers, creators, and community members. If you would like to submit themes, sound packs, crosshairs, palettes, or other customization assets, feel free to open a pull request.
+
+---
+
+Built by CONTINIUM for the competitive aiming community.
