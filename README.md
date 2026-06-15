@@ -6,9 +6,9 @@ Created and maintained by the CONTINIUM team, this repository serves as a centra
 
 ## Contents
 
-- UI Themes
+- Themes
 - Sound Packs
-- Crosshairs
+- Crosshair Packs
 - Color Palettes
 - Configuration Files
 
